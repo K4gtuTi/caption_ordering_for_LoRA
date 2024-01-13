@@ -1,0 +1,9 @@
+character_pattern:
+proper_nouns: c.c., code geass
+verbs:
+nouns:
+adjectives:
+adverbs:
+others:
+quality_pattern: masterpiece
+cinematic:

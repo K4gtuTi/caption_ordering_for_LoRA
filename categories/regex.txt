@@ -1,0 +1,2 @@
+character_pattern: 1(girl|boy|other), \w+\s*(\beyes\b|\bhair\b), \w+\s*(\bbreasts\b|\bchest\b)
+quality_pattern: \b\w+\squality\b
